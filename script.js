@@ -1,3 +1,6 @@
+var alertMe = function(){
+alert(MEMORYYYY!!!!!)
+}
 var Tile = function(x, y, face) {
     this.x = x;
     this.y = y;
